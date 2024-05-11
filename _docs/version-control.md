@@ -1,6 +1,6 @@
 # Merging into `mainnet/main`
 
-As new mainnet need to be released, quite often `mainnet/main` branch is far behind the `main`.
+As new mainnet needs to be released, quite often `mainnet/main` branch is far behind the `main`.
 This is so far cleanest solution we have found to perform merge without conflicts as well as keeping history
 
 ```shell
